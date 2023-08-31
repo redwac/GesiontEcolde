@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GesiontEcolde.iml" filepath="$PROJECT_DIR$/.idea/GesiontEcolde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GesiontEcolde/GesiotEcolde.iml" filepath="$PROJECT_DIR$/GesiontEcolde/GesiotEcolde.iml" />
+    </modules>
+  </component>
+</project>
